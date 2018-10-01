@@ -4,3 +4,6 @@
 [submodule "A2"]
 	path = A2
 	url = https://github.com/ankurshaswat/Yinsh
+[submodule "A3"]
+	path = A3
+	url = https://github.com/ankurshaswat/DrugDiscovery
